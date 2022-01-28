@@ -1,0 +1,8 @@
+baseURL = 'https://bunny-thief.github.io/tech-bytes/'
+languageCode = 'en-us'
+theme = 'clarity'
+
+[params]
+title = 'Tech Bytes'
+author = 'Jacques'
+description = 'A blog about Linux, programming, Raspberry Pi and other tech things I find interesting'
